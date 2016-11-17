@@ -1,0 +1,22 @@
+{
+  "name": "serverless-slack-webhook",
+  "version": "0.1.0",
+  "bugs": {
+    "url": "https://github.com/70-10/serverless-slack-webhook/issues"
+  },
+  "dependencies": {
+    "co": "4.6.0",
+    "node-slackr": "0.1.4"
+  },
+  "homepage": "https://github.com/70-10/serverless-slack-webhook#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/70-10/serverless-slack-webhook.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
